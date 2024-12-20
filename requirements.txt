@@ -145,3 +145,6 @@ tensorflow==2.13
 numpy
 matplotlib
 pillow
+default-libmysqlclient-dev
+build-essential
+pkg-config
