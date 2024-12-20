@@ -140,5 +140,8 @@ webdriver-manager==4.0.1
 Werkzeug==2.3.7
 wrapt==1.14.1
 wsproto==1.2.0
-streamlit
-setuptools
+streamlit==1.19.0
+tensorflow==2.13
+numpy
+matplotlib
+pillow
